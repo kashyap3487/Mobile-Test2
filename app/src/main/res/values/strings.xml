@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string-array name="categories">
+        <item>Please select a category</item>
+        <item>Home</item>
+        <item>Shopping</item>
+        <item>Work</item>
+        <item>School</item>
+        <item>Sport</item>
+        <item>Personal</item>
+    </string-array>
+</resources>
